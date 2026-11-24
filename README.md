@@ -1,18 +1,11 @@
 <div align="center">
-
-[![CemOS Research Explorer — open interactive desktop](assets/cemos/header.svg)](https://csondurr.github.io/os/)
-
+<img src="assets/cemos/classic-top.svg" width="100%" alt="CemOS — classic research desktop"><br><img src="assets/cemos/classic-r0c0.svg" width="40.75%" alt="Cem Sondur, portfolio assistant"><a href="#research-profile"><img src="assets/cemos/classic-r0c1.svg" width="17%" alt="About Me"></a><a href="#featured-projects"><img src="assets/cemos/classic-r0c2.svg" width="17%" alt="Projects"></a><a href="#research-domains"><img src="assets/cemos/classic-r0c3.svg" width="25.25%" alt="RF Laboratory"></a><br><img src="assets/cemos/classic-r1c0.svg" width="40.75%" alt=""><a href="#signal-processing-embedded-systems--inverse-modeling"><img src="assets/cemos/classic-r1c1.svg" width="17%" alt="Signal Processing"></a><a href="https://csondurr.github.io/thesis-researches/"><img src="assets/cemos/classic-r1c2.svg" width="17%" alt="Thesis &amp; Research"></a><a href="#engineering-toolkit"><img src="assets/cemos/classic-r1c3.svg" width="25.25%" alt="Engineering Tools"></a><br><img src="assets/cemos/classic-r2c0.svg" width="40.75%" alt=""><a href="https://csondurr.github.io/about/"><img src="assets/cemos/classic-r2c1.svg" width="17%" alt="Education"></a><a href="https://www.linkedin.com/in/cem-sondur-a8376225b/"><img src="assets/cemos/classic-r2c2.svg" width="17%" alt="LinkedIn"></a><a href="https://csondurr.github.io/"><img src="assets/cemos/classic-r2c3.svg" width="25.25%" alt="Website"></a><br><img src="assets/cemos/classic-bottom.svg" width="100%" alt="Ready — CemOS 1.0">
 </div>
 
-<table><tr><td align="center" width="190"><img src="assets/cemos/avatar.webp" width="150" alt="Pixel-art portrait of Cem Sondur"><br><b>Cem Sondur</b><br><sub>Research desktop assistant</sub></td><td><b>👋 Hello, welcome to my little corner of the internet.</b><br><br>I explore RF and microwave engineering, computational electromagnetics and digital signal processing.<br><br>Pick a shortcut below, or launch my interactive research desktop.<br><br><a href="https://csondurr.github.io/os/"><b>▶ Start CemOS</b></a> · <a href="https://www.linkedin.com/in/cem-sondur-a8376225b/">LinkedIn</a> · <a href="https://csondurr.github.io">Website</a></td></tr></table>
-
 <div align="center">
-<table>
-<tr><td align="center"><a href="https://csondurr.github.io/about/"><img src="assets/cemos/about.svg" width="156" alt="About Me"></a></td><td align="center"><a href="https://github.com/csondurr?tab=repositories"><img src="assets/cemos/projects.svg" width="156" alt="Research Projects"></a></td><td align="center"><a href="#research-domains"><img src="assets/cemos/rf.svg" width="156" alt="RF & Microwave"></a></td></tr>
-<tr><td align="center"><a href="#featured-projects"><img src="assets/cemos/dsp.svg" width="156" alt="Signal Processing"></a></td><td align="center"><a href="https://csondurr.github.io/thesis-researches/"><img src="assets/cemos/research.svg" width="156" alt="Thesis & Research"></a></td><td align="center"><a href="#engineering-toolkit"><img src="assets/cemos/tools.svg" width="156" alt="Engineering Tools"></a></td></tr>
-<tr><td align="center"><a href="https://csondurr.github.io/about/"><img src="assets/cemos/education.svg" width="156" alt="Education"></a></td><td align="center"><a href="https://www.linkedin.com/in/cem-sondur-a8376225b/"><img src="assets/cemos/linkedin.svg" width="156" alt="LinkedIn"></a></td><td align="center"><a href="https://csondurr.github.io"><img src="assets/cemos/website.svg" width="156" alt="My Website"></a></td></tr>
-</table>
-<sub>● Ready &nbsp; | &nbsp; CemOS 1.0 &nbsp; | &nbsp; Research Explorer</sub>
+
+[About Me](#research-profile) · [Projects](#featured-projects) · [LinkedIn](https://www.linkedin.com/in/cem-sondur-a8376225b/) · [Website](https://csondurr.github.io/)
+
 </div>
 
 ## Research Profile

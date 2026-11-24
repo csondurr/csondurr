@@ -1,14 +1,23 @@
-# Cem Sondur
+<div align="center">
 
-![Cem Sondur — RF and microwave engineering, signal processing, and computational electromagnetics. A radar dish and antenna tower stand against a dark blue landscape.](assets/research-hero.webp)
+[![CemOS Research Explorer — open interactive desktop](assets/cemos/header.svg)](https://csondurr.github.io/os/)
 
-**RF & Microwave Engineering · Signal Processing · Computational Electromagnetics**
+</div>
 
-[Personal website](https://csondurr.github.io) · [LinkedIn](https://www.linkedin.com/in/cem-sondur-a8376225b/) · [Research repositories](https://github.com/csondurr?tab=repositories)
+<table><tr><td align="center" width="190"><img src="assets/cemos/avatar.webp" width="150" alt="Pixel-art portrait of Cem Sondur"><br><b>Cem Sondur</b><br><sub>Research desktop assistant</sub></td><td><b>👋 Hello, welcome to my little corner of the internet.</b><br><br>I explore RF and microwave engineering, computational electromagnetics and digital signal processing.<br><br>Pick a shortcut below, or launch my interactive research desktop.<br><br><a href="https://csondurr.github.io/os/"><b>▶ Start CemOS</b></a> · <a href="https://www.linkedin.com/in/cem-sondur-a8376225b/">LinkedIn</a> · <a href="https://csondurr.github.io">Website</a></td></tr></table>
 
-My academic background is in Electrical and Electronics Engineering at Adana Alparslan Türkeş Science and Technology University, where the program is taught in English. I study how electromagnetic fields interact with structures and how signal processing can recover information from the resulting measurements.
+<div align="center">
+<table>
+<tr><td align="center"><a href="https://csondurr.github.io/about/"><img src="assets/cemos/about.svg" width="156" alt="About Me"></a></td><td align="center"><a href="https://github.com/csondurr?tab=repositories"><img src="assets/cemos/projects.svg" width="156" alt="Research Projects"></a></td><td align="center"><a href="#research-domains"><img src="assets/cemos/rf.svg" width="156" alt="RF & Microwave"></a></td></tr>
+<tr><td align="center"><a href="#featured-projects"><img src="assets/cemos/dsp.svg" width="156" alt="Signal Processing"></a></td><td align="center"><a href="https://csondurr.github.io/thesis-researches/"><img src="assets/cemos/research.svg" width="156" alt="Thesis & Research"></a></td><td align="center"><a href="#engineering-toolkit"><img src="assets/cemos/tools.svg" width="156" alt="Engineering Tools"></a></td></tr>
+<tr><td align="center"><a href="https://csondurr.github.io/about/"><img src="assets/cemos/education.svg" width="156" alt="Education"></a></td><td align="center"><a href="https://www.linkedin.com/in/cem-sondur-a8376225b/"><img src="assets/cemos/linkedin.svg" width="156" alt="LinkedIn"></a></td><td align="center"><a href="https://csondurr.github.io"><img src="assets/cemos/website.svg" width="156" alt="My Website"></a></td></tr>
+</table>
+<sub>● Ready &nbsp; | &nbsp; CemOS 1.0 &nbsp; | &nbsp; Research Explorer</sub>
+</div>
 
-My work spans broadband antenna design, microwave propagation and sensing, software-defined radio, and embedded signal analysis. I use full-wave and multiphysics simulation to examine physical designs, then build computational models or firmware to evaluate how they could work within a complete system. My long-term goal is to pursue original research in electromagnetic sensing and intelligent wireless systems.
+## Research Profile
+
+My academic background is in Electrical and Electronics Engineering at Adana Alparslan Türkeş Science and Technology University, where the program is taught in English. My research interests include antenna design, wireless propagation, electromagnetic sensing and computational signal processing.
 
 ## Vision
 
@@ -26,12 +35,6 @@ Turn physical hypotheses into engineering designs through mathematical modeling,
 - **Digital Signal Processing & SDR** · Complex IQ modeling, receiver impairments, and fixed-point implementation.
 - **Embedded Engineering Systems** · STM32 firmware, conditioned RF data acquisition, and onboard anomaly detection.
 - **AI-Assisted Engineering Research** · Machine learning for inverse RF problems and parameter estimation from simulated responses.
-
-## Advanced Radar & Wireless Communication Systems
-
-![Concept illustration of a steerable radar dish and cellular sector antennas at a research site, with cyan arcs suggesting signal propagation.](assets/radar-wireless.webp)
-
-*Concept illustration of a radar and wireless research site.*
 
 ## Featured Projects
 

@@ -1,10 +1,12 @@
 <div align="center">
-<img src="assets/cemos/classic-top.svg" width="100%" alt="CemOS — classic research desktop"><br><img src="assets/cemos/classic-r0c0.svg" width="40.75%" alt="Cem Sondur, portfolio assistant"><a href="#research-profile"><img src="assets/cemos/classic-r0c1.svg" width="17%" alt="About Me"></a><a href="#featured-projects"><img src="assets/cemos/classic-r0c2.svg" width="17%" alt="Projects"></a><a href="#research-domains"><img src="assets/cemos/classic-r0c3.svg" width="25.25%" alt="RF Laboratory"></a><br><img src="assets/cemos/classic-r1c0.svg" width="40.75%" alt=""><a href="#signal-processing-embedded-systems--inverse-modeling"><img src="assets/cemos/classic-r1c1.svg" width="17%" alt="Signal Processing"></a><a href="https://csondurr.github.io/thesis-researches/"><img src="assets/cemos/classic-r1c2.svg" width="17%" alt="Thesis &amp; Research"></a><a href="#engineering-toolkit"><img src="assets/cemos/classic-r1c3.svg" width="25.25%" alt="Engineering Tools"></a><br><img src="assets/cemos/classic-r2c0.svg" width="40.75%" alt=""><a href="https://csondurr.github.io/about/"><img src="assets/cemos/classic-r2c1.svg" width="17%" alt="Education"></a><a href="https://www.linkedin.com/in/cem-sondur-a8376225b/"><img src="assets/cemos/classic-r2c2.svg" width="17%" alt="LinkedIn"></a><a href="https://csondurr.github.io/"><img src="assets/cemos/classic-r2c3.svg" width="25.25%" alt="Website"></a><br><img src="assets/cemos/classic-bottom.svg" width="100%" alt="Ready — CemOS 1.0">
+<img src="assets/cemos/classic-desktop.svg" width="100%" alt="CemOS — classic research desktop, featuring a portrait and nine research shortcuts">
 </div>
 
 <div align="center">
 
-[About Me](#research-profile) · [Projects](#featured-projects) · [LinkedIn](https://www.linkedin.com/in/cem-sondur-a8376225b/) · [Website](https://csondurr.github.io/)
+[About Me](#research-profile) · [Projects](#featured-projects) · [RF Laboratory](#research-domains) · [Signal Processing](#signal-processing-embedded-systems--inverse-modeling)
+
+[Thesis & Research](https://csondurr.github.io/thesis-researches/) · [Engineering Tools](#engineering-toolkit) · [Education](https://csondurr.github.io/about/) · [LinkedIn](https://www.linkedin.com/in/cem-sondur-a8376225b/) · [Website](https://csondurr.github.io/)
 
 </div>
 
